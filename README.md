@@ -1,33 +1,40 @@
-## 👋 Hallo, ich bin Ivan!
+## Hallo, ich bin Ivan!
 
-### Über mich 💡
+### Über mich
 
-Ich bin ein leidenschaftlicher Frontend-Webentwickler aus Südtirol, Italien, der mit modernen Web-Technologien wie HTML, CSS, JavaScript und Responsive Design arbeitet.  
-Als Quereinsteiger habe ich zuvor in der Gastronomie gearbeitet, aber in den letzten zwei Jahren habe ich mir nebenberuflich das Programmieren von Webseiten mit Online-Kursen und Tutorials beigebracht.  
+Ich bin ein leidenschaftlicher Frontend-Webentwickler aus Südtirol, Italien.
+In den letzten Jahren habe ich mir nebenberuflich das Programmieren von Webseiten mit Online-Kursen und Tutorials beigebracht.  
 Was mich am Programmieren fasziniert, ist die Möglichkeit, jede Idee in die Realität umzusetzen – nur mithilfe von Computercode.
 
-### Technologien und Werkzeuge 🛠️
+### Technologien und Werkzeuge
 
-- 💻 **Frontend**: HTML5, CSS3, JavaScript (ES6+)
-- ⚙️ **Tools**: Git, GitHub, VS Code
+-  **Frontend**: HTML5, CSS3, JavaScript (ES6+)
+-  **Tools**: Git, GitHub, VS Code
 
-### Projekte 🚀
+## Projekte
 
-#### Leitenschenke 🍷
+- #### Leitenschenke
 
-Eine moderne Website für ein lokales Restaurant mit benutzerfreundlicher Struktur, SEO-Optimierung und Responsive Design.
+Die Webseite des Gasthauses "Leitenschenke" war mein erstes komplexes, großes Projekt.
+Das Projekt konzentriert sich auf ein elegantes und modernes Design der Inhalte, ohne dabei die Benutzerfreundlichkeit zu vernachlässigen.
 
-#### Beatz 🎶
+Diese Webseite wird mit GitHub Pages gehostet. Besuche [Leitenschenke](https://ivan-555.github.io/Leitenschenke/) für die Live-Version.
 
-Eine interaktive Musik-App, die es Nutzern ermöglicht, verschiedene Playlists abzuspielen und ihre Favoriten zu speichern. Mit ansprechendem UI und dynamischen Funktionen wie Local Storage.
+- #### Beatz
 
-### Was ich gerade lerne 👨‍💻
+Beatz ist eine interaktive Musik-App, die es Nutzern ermöglicht, Playlists zu durchsuchen, Musik abzuspielen und ihre Favoriten zu speichern. Die App bietet ein modernes und benutzerfreundliches Interface mit verschiedenen Musik-Genres.
 
-🚀 Ich suche nach fortgeschrittenen Projekten, um meine JavaScript-Fähigkeiten weiter zu vertiefen.  
-🌱 Gleichzeitig arbeite ich an Projekten, die meine Fähigkeiten im Bereich Webdesign und User Experience verbessern.
+Diese Webseite wird mit GitHub Pages gehostet. Besuche [Beatz](https://ivan-555.github.io/Beatz/) für die Live-Version.
 
-### Was ich in Zukunft gerne lernen möchte:
+- #### Cosmio
 
-- React
-- 3D-Webseiten mit Three.js
-- PWA (Progressive Web Apps)
+Cosmio ist eine interaktive Webseite, die Nutzern ermöglicht, das Universum in 3D zu erkunden. Mit eingebauten 3D-Modellen und informativen Texten können Nutzer durch das Sonnensystem und darüber hinaus navigieren und Informationen
+über das Objekt erhalten. Die Webseite nutzt den Model Viewer und Sketchfab Embeds um eine beeindruckende visuelle Erfahrung zu bieten.
+
+Diese Webseite wird mit GitHub Pages gehostet. Besuche [Cosmio](https://ivan-555.github.io/Cosmio/) für die Live-Version.
+
+- #### TickTick
+
+TickTick ist eine ToDo Webseite, die es Nutzern ermöglicht Aufgaben hinzuzufügen, diese als wichtig zu markieren und mit Fälligkeitsdatum zu versehen. Die Aufgaben werden nach Wichtigkeit und Fälligkeitsdatum sortiert.
+
+Diese Webseite wird mit GitHub Pages gehostet. Besuche [TickTick](https://ivan-555.github.io/TickTick/) für die Live-Version.
