@@ -2,20 +2,20 @@
 
 ### Über mich
 
-Ich bin ein leidenschaftlicher Frontend-Webentwickler aus Südtirol, Italien.
-In den letzten Jahren habe ich mir nebenberuflich das Programmieren von Webseiten mit Online-Kursen und Tutorials beigebracht.  
+Ich bin ein Frontend-Webentwickler aus Südtirol, Italien.
+In den letzten Jahren habe ich mir nebenberuflich durch Online-Kurse das Programmieren von Webseiten beigebracht.  
 Was mich am Programmieren fasziniert, ist die Möglichkeit, jede Idee in die Realität umzusetzen – nur mithilfe von Computercode.
 
 ### Technologien und Werkzeuge
 
--  **Frontend**: HTML5, CSS3, JavaScript (ES6+)
+-  **Frontend**: HTML5, CSS3, Sass, JavaScript (ES6)
 -  **Tools**: Git, GitHub, VS Code
 
 ## Projekte
 
 - #### Leitenschenke
 
-Die Webseite des Gasthauses "Leitenschenke" war mein erstes komplexes, großes Projekt.
+Die Webseite des Gasthauses "Leitenschenke" war mein erstes großes Projekt.
 Das Projekt konzentriert sich auf ein elegantes und modernes Design der Inhalte, ohne dabei die Benutzerfreundlichkeit zu vernachlässigen.
 
 Diese Webseite wird mit GitHub Pages gehostet. Besuche [Leitenschenke](https://ivan-555.github.io/Leitenschenke/) für die Live-Version.
