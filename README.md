@@ -2,7 +2,7 @@
 
 ### Über mich
 
-Ich bin ein Frontend-Webentwickler aus Südtirol, Italien.
+Ich bin ein Frontend-Webentwickler aus Südtirol, Italien.  
 In den letzten Jahren habe ich mir nebenberuflich durch Online-Kurse das Programmieren von Webseiten beigebracht.  
 Was mich am Programmieren fasziniert, ist die Möglichkeit, jede Idee in die Realität umzusetzen – nur mithilfe von Computercode.
 
